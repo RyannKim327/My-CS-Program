@@ -1,16 +1,16 @@
 using System;
 
-public class names{
+public class my_name{
 	public string full{
 		get;
 		set;
 	}
 }
 
-public class Program{
-	static names n;
+public class Program1{ // change the Program1 to Program
+	static my_name n;
 	static void Main(String[] a){
-		n = new names();
+		n = new my_name();
 		n.full = "Ryann Kim Sesgundo";
 		act();
 	}

@@ -7,7 +7,7 @@ public class names{
 	}
 }
 
-public class Program{
+public class Program2{ // change the Program2 to Program
 	static names n;
 	static void Main(String[] a){
 		n = new names();

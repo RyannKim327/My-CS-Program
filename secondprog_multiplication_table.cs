@@ -1,6 +1,6 @@
 using System;
 
-class Program{
+class Program3{ // change the Program3 to Program
 	static void Main(String[] args){
 		string a, b;
 		Console.WriteLine("Multiplication Table");
